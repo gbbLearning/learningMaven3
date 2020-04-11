@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="learningMaven.AppTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="learningMaven.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/surefire/surefirebooter15230816881993910559.jar /Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/surefire 2020-04-11T19-49-36_133-jvmRun1 surefire16486878113318279296tmp surefire_015015039732081339720tmp"/>
+    <property name="sun.java.command" value="/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/surefire/surefirebooter9444489404880125072.jar /Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/surefire 2020-04-11T19-50-20_939-jvmRun1 surefire7512408177599298715tmp surefire_02085747027564600045tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/test-classes:/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/classes:/Users/gonsama/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/gonsama/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/surefire/surefirebooter15230816881993910559.jar"/>
+    <property name="surefire.real.class.path" value="/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3/target/surefire/surefirebooter9444489404880125072.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="14+36-1461"/>
@@ -40,11 +40,13 @@
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="localRepository" value="/Users/gonsama/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="registry" value="https://maven.pkg.github.com/gbbLearning"/>
     <property name="java.io.tmpdir" value="/var/folders/05/1bf_sn2j6_32tvkslqwzfv2w0000gn/T/"/>
     <property name="java.version" value="14"/>
     <property name="user.dir" value="/Users/gonsama/WorkingFolder/Personal/learning/learningjava/learningMaven3"/>
     <property name="os.arch" value="x86_64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="token" value="GH_TOKEN"/>
     <property name="java.library.path" value="/Users/gonsama/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
