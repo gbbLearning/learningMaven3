@@ -5,6 +5,6 @@ public class myClass {
     public void main()
     {
         //App.main(null);
-        System.out.println("hola vscoder!");
+        System.out.println("hola vscoder gilipollas!");
     }
 }
